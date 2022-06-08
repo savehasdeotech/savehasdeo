@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "imagePath": "/assets/img/partners/upl.png",
+    "alt": "UPL",
+    "name": ""
+  },
+  {
+    "id": 2,
+    "imagePath": "/assets/img/partners/Borosil.png",
+    "alt": "Borosil Ltd",
+    "name": ""
+  },
+  {
+    "id": 3,
+    "imagePath": "/assets/img/partners/heg.png",
+    "alt": "HEG",
+    "name": ""
+  },
+  {
+    "id": 4,
+    "imagePath": "/assets/img/partners/shapoorjiPallonji.png",
+    "alt": "Shapoorji Pallonji",
+    "name": ""
+  },
+  {
+    "id": 5,
+    "imagePath": "/assets/img/partners/alkem.png",
+    "alt": "Alkem Laboratories",
+    "name": ""
+  },
+  {
+    "id": 6,
+    "imagePath": "/assets/img/partners/Motilal_Oswal.png",
+    "alt": "Motilal Oswal Financial Services Ltd.",
+    "name": ""
+  },
+  {
+    "id": 7,
+    "imagePath": "/assets/img/partners/IndoRama.png",
+    "alt": "Indorama",
+    "name": ""
+  },
+  {
+    "id": 8,
+    "imagePath": "/assets/img/partners/Anand_Rathi.png",
+    "alt": "Anand Rathi Financial Services Ltd.",
+    "name": ""
+  },
+  {
+    "id": 9,
+    "imagePath": "/assets/img/partners/VIP.png",
+    "alt": "VIP",
+    "name": ""
+  },
+  {
+    "id": 10,
+    "imagePath": "/assets/img/partners/bc-jindal.png",
+    "alt": "B.C. Jindal Foundation",
+    "name": ""
+  },
+  {
+    "id": 11,
+    "imagePath": "/assets/img/partners/tci.png",
+    "alt": "TCI EXPRESS LTD.",
+    "name": ""
+  },
+  {
+    "id": 12,
+    "imagePath": "/assets/img/partners/Lodha_Charitable.png",
+    "alt": "Lodha Foundation",
+    "name": ""
+  },
+  {
+    "id": 13,
+    "imagePath": "/assets/img/partners/home_first.png",
+    "alt": "HOME FIRST FINANCE COMPANY INDIA LTD",
+    "name": ""
+  },
+  {
+    "id": 14,
+    "imagePath": "/assets/img/partners/borosil-renewables.png",
+    "alt": "Borosil Foundation",
+    "name": ""
+  },
+  {
+    "id": 15,
+    "imagePath": "/assets/img/partners/rotary.png",
+    "alt": "Rotary Club",
+    "name": "Queens Necklace"
+  },
+  {
+    "id": 16,
+    "imagePath": "/assets/img/partners/rotary.png",
+    "alt": "Rotary Club",
+    "name": "Powai"
+  },
+  {
+    "id": 17,
+    "imagePath": "/assets/img/partners/rotary.png",
+    "alt": "Rotary Club",
+    "name": "Bombay Peninusla"
+  },
+  {
+    "id": 18,
+    "imagePath": "/assets/img/partners/gobeyond.png",
+    "alt": "Gobeyond Foundation",
+    "name": "Gobeyond Foundation"
+  },
+  {
+    "id": 19,
+    "imagePath": "/assets/img/partners/innerwheelclub.png",
+    "alt": "IWC BOMBAY AIRPORT",
+    "name": "IWC BOMBAY AIRPORT"
+  },
+  {
+    "id": 20,
+    "imagePath": "/assets/img/partners/bhansali.png",
+    "alt": "BHANSHALI CHARITABLE TRUST",
+    "name": ""
+  },
+  {
+    "id": 21,
+    "imagePath": "/assets/img/partners/Aurum_Ventures.png",
+    "alt": "Aurum Foundation",
+    "name": ""
+  },
+  {
+    "id": 22,
+    "imagePath": "/assets/img/partners/Emami_Limited.png",
+    "alt": "EMAMI LIMITED",
+    "name": ""
+  },
+  {
+    "id": 23,
+    "imagePath": "/assets/img/partners/Dalmia.png",
+    "alt": "DALMIA BHARAT FOUNDATION",
+    "name": ""
+  },
+  {
+    "id": 24,
+    "imagePath": "/assets/img/partners/afcons.png",
+    "alt": "Afcons",
+    "name": ""
+  },
+  {
+    "id": 25,
+    "imagePath": "/assets/img/partners/jorehaut.png",
+    "alt": "The Jorehaut Group",
+    "name": ""
+  },
+  {
+    "id": 26,
+    "imagePath": "/assets/img/partners/krishi-rasayan.png",
+    "alt": "Krishi Rasayan",
+    "name": ""
+  },
+  {
+    "id": 27,
+    "imagePath": "/assets/img/partners/manjri-farm.png",
+    "alt": "Manjri Farm",
+    "name": ""
+  },
+  {
+    "id": 28,
+    "imagePath": "/assets/img/partners/medwiz.png",
+    "alt": "MEDWIZ HEALTHCARE COMMUNICATION PVT LTD",
+    "name": ""
+  },
+  {
+    "id": 29,
+    "imagePath": "/assets/img/partners/newberry.png",
+    "alt": "NEW BERRY CAPITAL PVT LTD",
+    "name": ""
+  },
+  {
+    "id": 30,
+    "imagePath": "/assets/img/partners/optima-farm.png",
+    "alt": "Optima Farm Solutions Ltd",
+    "name": ""
+  },
+  {
+    "id": 31,
+    "imagePath": "/assets/img/partners/plws.png",
+    "alt": "PROGRESSIVE LADIES WELFARE SOCIETY",
+    "name": ""
+  },
+  {
+    "id": 32,
+    "imagePath": "/assets/img/partners/sai-kripa.png",
+    "alt": "SRI KRIPA STONES & GRANITES PVT LTD",
+    "name": ""
+  },
+  {
+    "id": 33,
+    "imagePath": "/assets/img/partners/vcs.png",
+    "alt": "VCS QUALITY SERVICES PRIVATE LIMITED",
+    "name": ""
+  },
+  {
+    "id": 34,
+    "imagePath": "/assets/img/partners/agrocel.png",
+    "alt": "Agrocel Industries Ltd",
+    "name": ""
+  },
+  {
+    "id": 35,
+    "imagePath": "/assets/img/partners/bppl.png",
+    "alt": "Bhabani Pigments Pvt Ltd.",
+    "name": ""
+  },
+  {
+    "id": 36,
+    "imagePath": "/assets/img/partners/chengmari.png",
+    "alt": "CHENGMARI TEA CO. LTD.",
+    "name": ""
+  },
+  {
+    "id": 37,
+    "imagePath": "/assets/img/partners/hsil.png",
+    "alt": "HSIL",
+    "name": ""
+  },
+  {
+    "id": 38,
+    "imagePath": "/assets/img/partners/idz.png",
+    "alt": "IDZ Digital",
+    "name": ""
+  },
+  {
+    "id": 39,
+    "imagePath": "/assets/img/partners/Vasant_Charitable.jpeg",
+    "alt": "Vasant Family Charitable Trust",
+    "name": ""
+  },
+  {
+    "id": 40,
+    "imagePath": "/assets/img/partners/Allcargo.png",
+    "alt": "Allcargo Logistics Limited",
+    "name": ""
+  },
+  {
+    "id": 41,
+    "imagePath": "/assets/img/partners/Parksons_Graphics.jpeg",
+    "alt": "Parksons Graphics",
+    "name": ""
+  },
+  {
+    "id": 42,
+    "imagePath": "/assets/img/partners/ajva.png",
+    "alt": "AJVA Fintech Private Limited",
+    "name": ""
+  }
+]

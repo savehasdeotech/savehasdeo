@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Raebareli, Uttar Pradesh",
+        "lat":26.2348415,
+        "lon":81.2018384
+    },
+    {
+        "id":2,
+        "name":"Bhavnagar, Gujarat",
+        "lat":21.76383,
+        "lon":72.1198865
+    },
+    {
+        "id":3,
+        "name":"Amreli, Gujarat",
+        "lat":21.5993927,
+        "lon":71.1860312
+    },
+    {
+        "id":4,
+        "name":"Palghar, Maharashtra",
+        "lat":19.6942,
+        "lon":72.7515331
+    },
+    {
+        "id":5,
+        "name":"Ratnagiri, Maharashtra",
+        "lat":16.9939357,
+        "lon":73.2905775
+    },
+    {
+        "id":6,
+        "name":"Vrindavan, Uttar Pradesh",
+        "lat":27.564811,
+        "lon":77.6243514
+    },
+    {
+        "id":7,
+        "name":"Ariyalur, Tamil Nadu",
+        "lat":11.1388744,
+        "lon":79.0566782
+    }
+]

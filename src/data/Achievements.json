@@ -1,0 +1,188 @@
+{
+    "Achievements2020":[
+        {
+            "id":2,
+            "title":"Lemon",
+            "count":131134,
+            "imagePath":"/assets/img/fruits/lemon.jpg"
+        },
+        {
+            "id":3,
+            "title":"Mango",
+            "count":288602,
+            "imagePath":"/assets/img/fruits/mango.jpg"
+        },
+        {
+            "id":4,
+            "title":"Drumstick",
+            "count":43068,
+            "imagePath":"/assets/img/fruits/drumstick.jpg"
+        },
+        {
+            "id":5,
+            "title":"Papaya",
+            "count":588161,
+            "imagePath":"/assets/img/fruits/papaya.jpg"
+        },
+        {
+            "id":6,
+            "title":"Sweet Lime",
+            "count":42442,
+            "imagePath":"/assets/img/fruits/sweetlime.jpg"
+        },
+        {
+            "id":7,
+            "title":"Custard Apple",
+            "count":406846,
+            "imagePath":"/assets/img/fruits/sitafal.jpg"
+        },
+        {
+            "id":8,
+            "title":"Coconut",
+            "count":40811,
+            "imagePath":"/assets/img/fruits/coconut.jpg"
+        },
+        {
+            "id":9,
+            "title":"Orange",
+            "count":45275,
+            "imagePath":"/assets/img/fruits/orange.jpg"
+        },
+        {
+            "id":10,
+            "title":"Guava",
+            "count":320135,
+            "imagePath":"/assets/img/fruits/guava.jpg"
+        }
+    ],
+    "Achievements2019":[
+        {
+            "id":2,
+            "title":"Lemon",
+            "count":148416,
+            "imagePath":"/assets/img/fruits/lemon.jpg"
+        },
+        {
+            "id":3,
+            "title":"Sweet Lime",
+            "count":7720,
+            "imagePath":"/assets/img/fruits/sweetlime.jpg"
+        },
+        {
+            "id":4,
+            "title":"Mango",
+            "count":129441,
+            "imagePath":"/assets/img/fruits/mango.jpg"
+        },
+        {
+            "id":5,
+            "title":"Drumstick",
+            "count":145785,
+            "imagePath":"/assets/img/fruits/drumstick.jpg"
+        },
+        {
+            "id":6,
+            "title":"Papaya",
+            "count":134039,
+            "imagePath":"/assets/img/fruits/papaya.jpg"
+        },
+        {
+            "id":7,
+            "title":"Custard Apple",
+            "count":290838,
+            "imagePath":"/assets/img/fruits/sitafal.jpg"
+        },
+        {
+            "id":8,
+            "title":"Banana",
+            "count":148337,
+            "imagePath":"/assets/img/fruits/banana.jpg"
+        },
+        {
+            "id":9,
+            "title":"Orange",
+            "count":34068,
+            "imagePath":"/assets/img/fruits/orange.jpg"
+        },
+        {
+            "id":10,
+            "title":"Guava",
+            "count":140966,
+            "imagePath":"/assets/img/fruits/guava.jpg"
+        },
+        {
+            "id":11,
+            "title":"Pomegranate",
+            "count":6191,
+            "imagePath":"/assets/img/fruits/pomegranate.jpg"
+        }
+    ],
+    "AllRoundDevelopment":[
+        {
+            "id":1,
+            "name":"Clean Energy Installations",
+            "score":1000,
+            "description":"Smokeless chulhas, solar lanterns, solar lights, solar pumps installed.",
+            "imagePath":"/assets/img/Solarpanel.jpg"
+        },
+        {
+            "id":2,
+            "name":"Students Impacted",
+            "score":5000,
+            "description":"Through e-learning kits, sports activities, and school libraries.",
+            "imagePath":"/assets/img/about/village.jpg"
+        },
+        {
+            "id":3,
+            "name":"Litres of Water Distributed",
+            "score":"1.5 crore",
+            "description":"In 38 villages during the 2016 drought.",
+            "imagePath":"/assets/img/WaterTanker.jpg"
+        },
+        {
+            "id":4,
+            "name":"Ration Cards",
+            "score":1500,
+            "description":"Ration cards distributed for the first time.",
+            "imagePath":"/assets/img/gallery/Community-Meetings/image19.jpg"
+        }
+    ],
+    "WaterConservation":[
+        {
+            "id":1,
+            "name":"70 km River",
+            "description":"Deepening and widening of Paapnashi River and its tributaries",
+            "imagePath":"/assets/img/gallery/Water-Management/image7.jpg"
+        },
+        {
+            "id":2,
+            "name":"162 farm ponds ",
+            "description":"222 Cr Litres of total surface water storage capacity created for the next two decades",
+            "imagePath":"/assets/img/gallery/Water-Management/image5.jpg"
+        },
+        {
+            "id":3,
+            "name":"64 Dams",
+            "description":"CNB Dams Constructed",
+            "imagePath":"/assets/img/gallery/Water-Management/image1.jpg"
+        },
+        {
+            "id":4,
+            "name":"5 KT Weir Dams",
+            "description":"Repaired and Constructed across Marathwada region",
+            "imagePath":"/assets/img/gallery/Water-Management/image17.jpg"
+        },
+        {
+            "id":5,
+            "name":"606 Watershed",
+            "description":"Watershed structures created",
+            "imagePath":"/assets/img/gallery/Water-Management/image11.jpg"
+        },
+        {
+            "id":6,
+            "name":"880 Cr Rupees",
+            "description":"Total money saved on water tankers for the next two decades",
+            "imagePath":"/assets/img/WaterTanker.jpg"
+        }
+    ]
+}

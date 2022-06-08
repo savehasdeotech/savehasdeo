@@ -1,0 +1,38 @@
+[
+    {
+       "id":1,
+       "link":"https://www.facebook.com/globalparli",
+       "iconClass":"fa fa-facebook",
+       "name":"Facebook"
+    },
+    {
+       "id":2,
+       "link":"https://twitter.com/GlobalParli",
+       "iconClass":"fa fa-twitter",
+       "name":"Twitter"
+    },
+    {
+       "id":3,
+       "link":"https://www.quora.com/profile/Global-Parli",
+       "iconClass":"fa fa-quora",
+       "name":"Quora"
+    },
+    {
+       "id":4,
+       "link":"https://www.instagram.com/globalparli",
+       "iconClass":"fa fa-instagram",
+       "name":"Instagram"
+    },
+    {
+       "id":5,
+       "link":"https://www.linkedin.com/company/globalparliorg",
+       "iconClass":"fa fa-linkedin",
+       "name":"LinkedIn"
+    },
+    {
+       "id":6,
+       "link":"https://www.youtube.com/channel/UCbKexsKmesybTT_afHkqC0g",
+       "iconClass":"fa fa-youtube",
+       "name":"YouTube"
+    }
+ ]

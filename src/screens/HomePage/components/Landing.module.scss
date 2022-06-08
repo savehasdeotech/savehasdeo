@@ -1,0 +1,100 @@
+.videoContainer{
+  margin-top: 80px;
+  max-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.landingVideo{
+  position: absolute;
+  width: 100%;
+  // height: 100%;
+  object-fit: cover;
+  top: 80px;
+  left: 0px;
+}
+
+// .landingButton{
+//     border-radius: 20px;
+//     background-color: #fff;
+//     display: flex;
+//     flex-direction: row;
+//     justify-content: center;
+//     align-items: center;
+//     padding: 5px 10px;
+//     z-index: 7;
+//     font-family: 'Caveat', cursive;
+//     font-weight: bolder;
+//     letter-spacing: 1.3;
+//     font-size:15px;
+//     position: absolute;
+//     right: 3%;
+//     top:100px;
+//     bottom: auto;
+//     // bottom:0px;
+//   }
+  .landingButton {
+    border-radius: 20px;
+    background-color: #388E3C;
+    color: white !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 10px;
+    z-index: 7;
+    font-family: 'Caveat', cursive;
+    font-weight: bolder;
+    letter-spacing: 1.3;
+    font-size: 15px;
+    position: absolute;
+    bottom:-50px;
+    cursor: pointer;
+  }
+
+  @media (min-width:768px){
+    .landingButton{
+      border-radius: 40px;
+      background-color: #FFF;
+      color: black !important;
+      position: absolute;
+      font-size:30px;
+      right: 3%;
+      top:50px;
+      bottom: auto;
+    }
+    .videoContainer{
+      // min-height: 100vh;
+      margin-top: 80px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+    }
+    .landingVideo{
+      top: 0px;
+      height: 100%;
+    }
+  }
+
+.aboutUsVideoHelperText{
+  border-radius: 12px;
+  border-top-left-radius:0px ;
+  border-top-right-radius:0px ;
+  background-color: #388E3C;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 36px;
+  z-index: 7;
+  font-family: 'Caveat', cursive;
+  font-weight: bolder;
+  letter-spacing: 1.3;
+  font-size:30px;
+}

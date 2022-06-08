@@ -1,0 +1,14 @@
+.singleAdvisor{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin-bottom: 48px;
+    align-items: center;
+    justify-content: center;
+    img{
+        height: 140px!important;
+        width: 140px!important;
+        border-radius: 50%;
+        border: solid 1px green;
+    }
+}

@@ -1,0 +1,56 @@
+[
+   {
+      "id":1,
+      "projectName":"Nation First",
+      "description":"Healthcare initiative for underprivileged",
+      "url":"/assets/img/projects/NF.jpg"
+   },
+   {
+      "id":2,
+      "projectName":"Ungli Dikha",
+      "description":"Increase voter turnout in India",
+      "url":"/assets/img/projects/unglidikha.jpg"
+   },
+   {
+      "id":3,
+      "projectName":"My Super Ward",
+      "description":"Citizen say in governance",
+      "url":"/assets/img/projects/msw.png"
+   },
+   {
+      "id":4,
+      "projectName":"Plant Future",
+      "description":"Greening Mumbai through Plantation",
+      "url":"/assets/img/projects/PF.jpg"
+   },
+   {
+      "id":6,
+      "projectName":"Global Bhavnagar",
+      "description":"Replicating the impact of Save Hasdeo in Bhavnagar",
+      "url":"/assets/img/projects/Bhavnagar.png"
+   },
+   {
+      "id":7,
+      "projectName":"Global Raisen",
+      "description":"Replicating the impact of Save Hasdeo in Raisen",
+      "url":"/assets/img/projects/Raisen.jpg"
+   },
+   {
+      "id":8,
+      "projectName":"Global Palghar",
+      "description":"Replicating the impact of Save Hasdeo in Palghar",
+      "url":"/assets/img/projects/Palghar.jpg"
+   },
+   {
+      "id":9,
+      "projectName":"Global Raebareli",
+      "description":"Replicating the impact of Save Hasdeo in Raibareli",
+      "url":"/assets/img/projects/Raebareli.png"
+   },
+   {
+      "id":10,
+      "projectName":"Global Kachchh",
+      "description":"An initiative to revive water in Kachchh",
+      "url":"/assets/img/projects/Kachchh.png"
+   }
+]

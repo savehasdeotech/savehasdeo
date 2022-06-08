@@ -1,0 +1,870 @@
+{
+  "advisory": [
+    {
+      "id": 1,
+      "heading": "Chairman of Advisory Board",
+      "name": "Sushil Jiwarajka",
+      "designation": "Chairman - OMC power, Essjay Ericsson Pvt. Ltd & Artheon Group.",
+      "imagePath": "/assets/img/team/advisory/Sushil_Jiwarajka.jpg",
+      "bio": "Sushil Jiwarajka is a Master Strategist. Currently Hon. Consul-General of Greece for western region of India, Sushil was the past president of ICC India, Chairman of FICCI (Western Region),Chairman of Indo Arab Chamber of Commerce & Industry, and past President of All India Organization of Employers."
+    },
+    {
+      "id": 2,
+      "heading": "Member of Advisory Board",
+      "name": "Dr. Ajit Ranade",
+      "designation": "Chief economist - Aditya Birla Group.",
+      "imagePath": "/assets/img/team/advisory/Ajit_Ranade.jpg",
+      "bio": "Ajit Ranade is an expert in Finance & writes weekly for Mumbai Mirror. He was earlier associated as an Executive Officer of Financial Technologies India Ltd and Chief Economist at ABN AMRO Bank. He is a member of the Board of India Today Economists, Chairman of the CII West Zone Sub Committee on Economic Affairs and the Research Advisory Panel of the Indian Institute of Banking and Finance."
+    },
+    {
+      "id": 3,
+      "heading": "Member of Advisory Board",
+      "name": "Alok Sinha",
+      "designation": "Chairman - Istakapaza & YourGreenCanvas",
+      "imagePath": "/assets/img/team/advisory/Alok_Sinha.jpg",
+      "bio": "Alok is Technology solutions catalyst. He has held multiple CXO positions in global companies in the immediate past, including Chairman and CEO of a listed software company with entities around the globe. A hands-on leader in the Technology and Software industry with nearly 35 years of track record in driving successful outcomes in the areas of leadership, business management and strategy, he has profitably ramped and managed many end-to-end businesses. He is as an active investor and advisor to several start-ups."
+    },
+    {
+      "id": 4,
+      "heading": "Member of Advisory Board",
+      "name": "Ambrish Karvat",
+      "designation": "Managing Director - Yupaa Fresh Pvt Ltd",
+      "imagePath": "/assets/img/team/advisory/Ambrish_Karvat_GP.jpg",
+      "bio": "Ambrish is farmer and one of the largest importers of fruits in India & has pioneered in Californian Strawberry farming. He has also been a trail blazer in the business of fresh fruit import from across the world. He started his career in 1980 with export of fresh flowers to Middle East by contract farming, it was in 1989 that Ambrish Karvat decided to switch on to his own farming of fresh fruits, vegetables, and flowers."
+    },
+    {
+      "id": 5,
+      "heading": "Member of Advisory Board",
+      "name": "Anand Rathi",
+      "designation": "Founder & Chaiman, Anand Rathi Group",
+      "imagePath": "/assets/img/team/advisory/Anand-Rathi.jpg",
+      "bio": "A respected member of ICAI, Mr. Anand Rathi is a Gold Medalist Chartered Accountant with over 40 years of experience. As a veteran in the financial services industry, Mr. Rathi is not just a renowned face in the financial circuits, but is also among the most sought-after speakers on macroeconomic matters related to policies, manufacturing, and their socio-economic impact. He is also very popular socially, and is active in philanthropy and Corporate Social Responsibility (CSR) initiatives."
+    },
+    {
+      "id": 6,
+      "heading": "Member of Advisory Board",
+      "name": "Arun Hardikar",
+      "designation": "Agriculture expert",
+      "imagePath": "/assets/img/team/advisory/Arun_Hardikar.png",
+      "bio": "Arun Hardikar is an agriculture expert with mastery in international trade and commerce and experience in export import laws, consulting for ministry of commerce, industry, finance, ordnance factories etc. He has contributed as a consultant for chemical industries, banks, portfolio management firms and more."
+    },
+    {
+      "id": 7,
+      "heading": "Member of Advisory Board",
+      "name": "Ashok Goel",
+      "designation": "Founding Trustee, Rashtram School of Public Leadership & Chairman Essel World, Mumbai",
+      "imagePath": "/assets/img/team/advisory/Ashok_Goel.jpg",
+      "bio": "Ashok Goel is a serial entrepreneur with various businesses. Currently he is investing in different businesses of finance, manufacturing and start-ups which have positive social and environmental impact."
+    },
+    {
+      "id": 8,
+      "heading": "Member of Advisory Board",
+      "name": "Dr. Bhagyashree Patil",
+      "designation": "Founder-CMD, Rise n' Shine Biotech",
+      "imagePath": "/assets/img/team/advisory/Bhagyashree-Patil.jpg",
+      "bio": "Dr. Patil leads India�s largest plant biotech organization and has reached the pinnacle of success in the field of Biotech, Floriculture and Horticulture. She is also Prochancellor of Dr. D Y Patil Vidyapeeth Pimpri Pune. She is an educationist, philanthropist and Agriculturist. She is professionally passionate about the women empowerment & upliftment of the grass root level farming community."
+    },
+    {
+      "id": 9,
+      "heading": "Member of Advisory Board",
+      "name": "Chand Bihari Patodia",
+      "designation": "Director - Birla Sugars (K.K Group)",
+      "imagePath": "/assets/img/team/advisory/Chand_Bihari_Patodia.jpg",
+      "bio": "A management expert handling large scale productions and running of companies, Chand Bihari Patodia has been awarded Life time Achievement Award by Sugar Technologist Association of India. He has associated himself in almost all the departments of the sugar industry whether it be cane managment, commercial or technical."
+    },
+    {
+      "id": 10,
+      "heading": "Member of Advisory Board",
+      "name": "D. P. Agarwal",
+      "designation": "Chairman & Managing Director, TCI",
+      "imagePath": "/assets/img/team/advisory/DP-Agarwal.jpg",
+      "bio": "Mr. D. P. Agarwal is the Chairman and Managing Director of TCI. Mr. Agarwal has been associated with the transport industry for more than 52 years. He has been contributing towards developing the unorganized logistics sector into an organized one. Mr. Agarwal is also associated with various Chambers of Commerce including CII, FICCI, ASSOCHAM & PHDCCI. He also takes active participation in many social and philanthropic activities for common good."
+    },
+    {
+      "id": 11,
+      "heading": "Member of Advisory Board",
+      "name": "Krishan Khanna",
+      "designation": "Chairman and Founder - I-watch Foundation.",
+      "imagePath": "/assets/img/team/advisory/Krishan_Khanna.jpg",
+      "bio": "Krishan Khanna's main focus through his organization I-Watch is Governance and Education and how it has an influence on the Economy and Employment. He is a Mechanical Engineering graduate from IIT Kharagpur. He worked for 53 years as a technocrat, out of which, nearly 7 years in Germany and Japan. He has travelled to 5 continents and has been involved with fifteen joint ventures and business partnerships with fifteen countries."
+    },
+    {
+      "id": 12,
+      "heading": "Member of Advisory Board",
+      "name": "Madhusudan Agrawal",
+      "designation": "Vice Chairman - Ajanta Pharma",
+      "imagePath": "/assets/img/team/advisory/Madhusudan_Agrawal.jpg",
+      "bio": "Madhusudan Agrawal is the Vice Chairman of Ajanta Pharma. He has the honour of being conferred and appointed as the Honorary Consul of the Republic of Uganda for the Western Zone of India. He has also received accolades for social work at the hands of then Honourable Home Minister of India, Mr. Lal Krishna Advani and also from the Honourable Mr. Ratan Tata."
+    },
+    {
+      "id": 13,
+      "heading": "Member of Advisory Board",
+      "name": "Nandkishor Kagliwal",
+      "designation": "Chairman - Nath Group of Companies",
+      "imagePath": "/assets/img/team/advisory/Nandkishor_kagliwal.jpg",
+      "bio": "Nandkishor Kagliwal's Nath Group of industries has strong presence in seeds & foods industries. He has pursued his MS in management from USA, & is a first generation entrepreneur. Nath Seeds is an intensely research oriented pioneering seed company in India."
+    },
+    {
+      "id": 14,
+      "heading": "Member of Advisory Board",
+      "name": "Dr. Parimal Merchant",
+      "designation": "Director - S P Jain School of Global Management, in-charge of the Global FMB",
+      "imagePath": "/assets/img/team/advisory/Parimal_Merchant.jpg",
+      "bio": "Professor Parimal Merchant is the Director of Global Family Managed Business (FMB) Program at S. P. Jain School of Global Management and has been involved in profit improvement consultancy projects for nearly 30 years with over 100 + companies. He has coordinated projects for Development of Corporate Citizenship (DOCC) guiding students to provide consultancy to over 300 + NGOs. He is also actively involved Humanist Movement."
+    },
+    {
+      "id": 15,
+      "heading": "Member of Advisory Board",
+      "name": "Pradeep Kheruka",
+      "designation": "Chairman - Borosil Ltd. & Chairman of Borosil Renewables Ltd.",
+      "imagePath": "/assets/img/team/advisory/Pradeep_Kheruka.jpg",
+      "bio": "Pradeep Kheruka is skilled in Negotiation, Business Planning, Business Development, Strategic Planning, and International Business. Experienced Chairman with a demonstrated history of working in the glass industry. Strong business development professional with a B. Com (Hons.) focused in Commercial Studies including law and Economics from St. Xavier's Collegiate School, Kolkata, India."
+    },
+    {
+      "id": 16,
+      "heading": "Member of Advisory Board",
+      "name": "Puneet Raman",
+      "designation": "Indian Representative - PUM Netherlands & Senior Experts Casablanca.",
+      "imagePath": "/assets/img/team/advisory/Puneet_raman.jpg",
+      "bio": "Puneet is a Regional Representative at PUM Netherlands. He is also a director at Qualitech India Consultants (P) Ltd. PUM offers advice to SMEs in emerging markets or developing countries. Their experts share knowledge with local entrepreneurs in 45 sectors and 35 countries across the globe."
+    },
+    {
+      "id": 17,
+      "heading": "Member of Advisory Board",
+      "name": "Rajendra Agarwal",
+      "designation": "Industrialist",
+      "imagePath": "/assets/img/team/advisory/Rajendra_Agarwal.jpg",
+      "bio": "Rajendra Agarwal is the Director General Elect of Rotary Club 3141. He is amongst the charter members of Rotary Club of Bombay Queen City club. In 2005-06, he rose to become the club President. Rajendra Agarwal was associated with Suditi Sports Apparel Ltd. which was 2nd Biggest exporter of Knitted fabrics. He has held important positions as Trustee in Haryana Bhavan at Kandivali, Mumbai President of Akhil Bhartiya Agarwal Sammelan, Trustee of Vaish Mahavidyalaya in Bhiwani, and many more."
+    },
+    {
+      "id": 18,
+      "heading": "Member of Advisory Board",
+      "name": "Rajendra Khaitan",
+      "designation": "Permanent Invitee",
+      "imagePath": "/assets/img/team/advisory/Rajendra_Khaitan.jpg",
+      "bio": "Mr. R.P Khaitan, is a progressive thinker, philanthropist and an industrialist, Founder & Chairman of RAL Consumer Products Ltd. � company that has diverse interests ranging from solar solutions, LED products, baby care to personal grooming products. He was the mastermind behind the launch of Sony Ericsson in India and ensured it became one of the market leaders in mobile brands. He is on the management committee board of Chinmaya Mission, Ramakrishna Mission, and Ajay Kumar Garg Engineering College. He actively contributes towards the betterment of the underprivileged."
+    },
+    {
+      "id": 19,
+      "heading": "Member of Advisory Board",
+      "name": "Raamdeo Agrawal",
+      "designation": "Chairman & Co-Founder, Motilal Oswal Financial Services Ltd",
+      "imagePath": "/assets/img/team/advisory/Raamdeo_Agrawal.jpg",
+      "bio": "Raamdeo Agrawal is the Chairman of Motilal Oswal Financial Services Limited (MOFSL) and the driving force behind the company�s approach to investing. MOFSL is a well-diversified financial services firm offering a range of products and services in securities, commodities, investment banking, asset management and venture capital."
+    },
+    {
+      "id": 20,
+      "heading": "Member of Advisory Board",
+      "name": "Ravindra Chamariya",
+      "designation": "Chairman & Managing Director - Infinity Group",
+      "imagePath": "/assets/img/team/advisory/Ravindra_Chamaria.jpg",
+      "bio": "Ravindra Chamaria is Chairman and Managing Director of Infinity Group which is known for sustainable and green real estate. He is also the Vice Chairman on the advisory board of Akshaya Patra and serves as Chairman of the Board of Trustees in Akshaya Patra UK. He is also attached to several other social and philanthropic organizations and initiatives such as Institute of Neurosciences � Kolkata, The Jaipur Foot, Udayan Care, Round Table India, etc."
+    },
+    {
+      "id": 21,
+      "heading": "Member of Advisory Board",
+      "name": "Ramesh Tainwala",
+      "designation": "Former Executive Director, Samsonite International",
+      "imagePath": "/assets/img/team/advisory/Ramesh_Tainwala.jpg",
+      "bio": "Mr. Tainwala is a leading business personality with a philanthrophic approach towards social work for the benefit of farmers and the environment. Within business, he has led with roles of strategic planning and operations globally."
+    },
+    {
+      "id": 22,
+      "heading": "Member of Advisory Board",
+      "name": "Ravi Jhunjhunwala",
+      "designation": "Chairman - LNJ Bhilwara Group",
+      "imagePath": "/assets/img/team/advisory/Ravi_Jhunjhunwala.jpg",
+      "bio": "Ravi Jhunjhunwala is a Businessperson who has been the head of 9 different companies. Presently, he holds the position of Chairman for AD Hydro Power Ltd., Chairman of LNJ Bhilwara Group, Chairman at Bhilwara Energy Ltd., Chairman & Managing Director at Malana Power Co. Ltd. (a subsidiary of Bhilwara Energy Ltd.) and Chairman, Chief Executive Officer & MD at HEG Ltd. He is also Member of World Presidents' Organization (India) and on the board of 14 other companies."
+    },
+    {
+      "id": 23,
+      "heading": "Member of Advisory Board",
+      "name": "Samir Shah",
+      "designation": "Managing Partner - Peak Venture Partners",
+      "imagePath": "/assets/img/team/advisory/Samir_Shah.jpg",
+      "bio": "Samir has been involved in global public and private markets for the past twenty six years, at leading institutions including Goldman Sachs (Hong Kong), Deutsche Bank (New York) and Saloman Brothers (New York). He graduated with an MBA (with distinction) from Wharton, and holds a Law degree and Bachelor of Commerce degree from Bombay University. He is a certified Chartered Accountant."
+    },
+    {
+      "id": 24,
+      "heading": "Member of Advisory Board",
+      "name": "Sandeep Singh",
+      "designation": "Managing Director - Alkem laboratories ltd",
+      "imagePath": "/assets/img/team/advisory/Sandeep_singh.jpg",
+      "bio": "Sandeep Singh joined the Alkem Board in the year 2013; currently, he is serving the organization as its Managing Director. Singh has over 17 years of experience in the pharmaceutical industry. He spearheads the domestic as well as the international operations of the organization. In the year 2016, he was presented with the �Emerging Pharma Leader of 2016 Award� by the Pharma Leaders in association with the Ministry of Health & Family Affairs, Government of India."
+    },
+    {
+      "id": 25,
+      "heading": "Member of Advisory Board",
+      "name": "Sandra Shroff",
+      "designation": "Vice-Chairperson- United Phosphorus Ltd.",
+      "imagePath": "/assets/img/team/advisory/Sandra_Shroff.jpg",
+      "bio": "Sandra Shroff is a Deep Thinker on Corporate Social Responsibility. She has been closely associated with ICMA (now known as ICC), FICCI, Assochem and CHEMEXCIL. She is also Instrumental in resolving the problems faced by the chemical industry throughout India. She also helms the Enviro Technology Limited and Bharuch Enviro Infrastructure Limited as Director"
+    },
+    {
+      "id": 26,
+      "heading": "Member of Advisory Board",
+      "name": "Adv. Siddharth Mehta",
+      "designation": "Managing Partner, Mehta & Padamsey Advocates",
+      "imagePath": "/assets/img/team/advisory/Siddharth-Mehta.jpg",
+      "bio": "Siddharth Mehta is the Managing Partner of Mehta & Padamsey, one of the oldest Mumbai-based full-service law firms which, in addition to other conventional offerings across practice verticals, also focuses on policy and advocacy in India. Mental health legislation has been an area of great interest for him and he has represented various stakeholders in this field. Siddharth has lived and worked in Delhi, New York, San Francisco, London and Singapore before returning to Mumbai. He is also a director on the board of a number of public listed companies."
+    },
+    {
+      "id": 27,
+      "heading": "Member of Advisory Board",
+      "name": "Shailesh Haribhakti",
+      "designation": "Chartered Accountant & Managing Partner Haribhakti & Co.",
+      "imagePath": "/assets/img/team/advisory/Shailesh_Haribhakti.jpg",
+      "bio": "Haribhakti is a well-known thought leader on the Indian Economy and Public Policy. He is a Chartered and Cost Accountant, an Internal Auditor and a Certified Financial Planner & Fraud Examiner. He is a Board Chairman, Audit Committee Chair and Independent Director at some of the country's most preeminent organizations. He is an ExTech (Exponential Technologies), ESG (Environmental, Social, Governance) & IR (Integrated Reporting) Evangelist."
+    },
+    {
+      "id": 28,
+      "heading": "Member of Advisory Board",
+      "name": "D. Sivanandhan",
+      "designation": "ex - Mumbai Police Commissioner",
+      "imagePath": "/assets/img/team/advisory/D_Sivanandhan.png",
+      "bio": "Sivanandhan is an ex - Mumbai Police Commissioner devoted for nation building. He brings strategic planning and decision making in our development."
+    },
+    {
+      "id": 29,
+      "heading": "Member of Advisory Board",
+      "name": "Sompal Shastri",
+      "designation": "ex - Minister for Agriculture, GOI, NITI Ayog Member",
+      "imagePath": "/assets/img/team/advisory/Sompal_Shastri.png",
+      "bio": "He has been the Minister for Agriculture for the government of India and a member of the Planning Commission. With a background with NITI Aayog, Sompal Shastri brings to us the wealth of planning, management and execution strategy."
+    },
+    {
+      "id": 30,
+      "heading": "Member of Advisory Board",
+      "name": "Dr. Sudhir Kumar Goel",
+      "designation": "Ex-Addl. Chief Secretary of Agriculture",
+      "imagePath": "/assets/img/team/advisory/Dr.Sudhirkumar_Goel.jpg",
+      "bio": "Dr. Sudhir Kumar Goel has occupied various senior positions in the state of Maharashtra, mostly linked to the field of Agriculture & Cooperation, including 7 years as Agriculture Commissioner. He was deputed as Commissioner and Secretary, Cooperatives, Principal Secretary and then Additional Chief Secretary of Agriculture."
+    },
+    {
+      "id": 31,
+      "heading": "Member of Advisory Board",
+      "name": "Vallabh Bhansali",
+      "designation": "Co founder ENAM group",
+      "imagePath": "/assets/img/team/advisory/Vallabh_Bhansali.jpg",
+      "bio": "Vallabh Bhansali is a well-known Thought leader and Investment banker. He is the Co-founder of ENAM group, a reputed home grown investment banking. He has played a significant role in the development of leading business houses such as Infosys, Reliance, Sterlite, Zee, Thermax, etc. and even Govt. companies such as NTPC, PTC, PFC, etc."
+    },
+    {
+      "id": 32,
+      "heading": "Member of Advisory Board",
+      "name": "Vivek Bharti",
+      "designation": "Economist",
+      "imagePath": "/assets/img/team/advisory/Vivek_Bharati.jpg",
+      "bio": "Vivek Bharati, an Economist and External affairs expert, was previously the Executive Director � External Affairs, PepsiCo India. Bharati has been associated with FICCI as Advisor-National Policy & Programmes. He also worked with the World Bank as Advisor to the Country Director. Prior to his stint at the World Bank, Bharati has held various senior editorial roles in The Economic Times, The Times of India and Hindustan Times."
+    },
+    {
+      "id": 33,
+      "heading": "Member of Advisory Board",
+      "name": "Dr. Vivek Damle",
+      "designation": "Chairman - SAVIDA Agri- Com Pvt. Ltd.",
+      "imagePath": "/assets/img/team/advisory/Vivek_Damle.jpg",
+      "bio": "Vivek Damle is an experienced Chairperson with a demonstrated history of working in the information technology and services industry. Strong business development professional skilled in Business Intelligence, Business Development, Analytics, Business Strategy, and Business Analysis."
+    }
+   ],
+
+
+  "trustee": [
+    {
+      "id": 1,
+      "name": "Mayank Gandhi",
+      "designation": "Founder & Chief Trustee",
+      "imagePath": "/assets/img/team/trustee/Mayank_Gandhi.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Harishchandra Wange",
+      "designation": "A respected surgeon & our inspiration",
+      "imagePath": "/assets/img/team/trustee/Wange.jpg"
+    },
+    {
+      "id": 3,
+      "name": "CA Sanjay Parmar",
+      "designation": "Accounts and Finance Advisor",
+      "imagePath": "/assets/img/team/trustee/SanjayParmar.jpg"
+    },
+    {
+      "id": 4,
+      "name": "CA Jatin Jain",
+      "designation": "Finance & Liaison Advisor",
+      "imagePath": "/assets/img/team/trustee/Jatin.jpg"
+    }
+  ],
+
+  "mhteam": [
+   
+  ],
+
+  "mumbaiteam": [
+    {
+      "id": 2,
+      "name": "Shyam Pammi",
+      "designation": "Chief Operation Manager",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Shyam.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Adithya Srinivasan",
+      "designation": "Research & Documentation",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Adithya.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ketna Thakur",
+      "designation": "Human Resources Executive",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Ketna.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Prem Raval",
+      "designation": "Executive Assistant & PR Catalyst",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Prem.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Uttara Nigudkar",
+      "designation": "Research Associate",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Uttara.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Yashi Nagar",
+      "designation": "Accounts Executive",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Yashi.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Anisha Borkar",
+      "designation": "Accounts Executive",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Anisha.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Rutuja Sawant",
+      "designation": "Data Coordinator",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Yogita.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Abhishek Waghmare",
+      "designation": "Data Coordinator",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Abhishek.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Mandakini Dhanure",
+      "designation": "Accounts Executive",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Mandakini.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Piyush Deokar",
+      "designation": "Accounts Executive",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Piyush.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Dipti Kadam",
+      "designation": "Project Coordinator",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Dipti.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Sweta Kanavaje",
+      "designation": "Project Coordinator",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Shweta.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Khushboo Chatwani",
+      "designation": "Media Intern",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Khushboo.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Vijay Kamble",
+      "designation": "Farmer Support Executive",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Vijay.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Sagar Avsarmal",
+      "designation": "Farmer Support Executive",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Sagar.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Sanjay Khade",
+      "designation": "Farmer Support Executive",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Sanjay.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Ramjan Khan",
+      "designation": "Admin Assistant",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Ramjan.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Rupesh Kolapte",
+      "designation": "Office Staff",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/Rupesh.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Tripurari Jha",
+      "designation": "Office Staff",
+      "imagePath": "/assets/img/team/maharashtra/mumbai/chhotu.jpg"
+    }
+  ],
+
+  "parliteam": [
+    {
+      "id": 1,
+      "name": "Vijay Gavhane",
+      "designation": "Project manager",
+      "imagePath": "/assets/img/team/maharashtra/parli/Vijay_Gavhane.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Krishna Rathod",
+      "designation": "Asst. Project manager",
+      "imagePath": "/assets/img/team/maharashtra/parli/Krishna_Rathod.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Shivling Rudraksh",
+      "designation": "Senior Coordinator",
+      "imagePath": "/assets/img/team/maharashtra/parli/Shivling_Rudraksh.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Nitin Shep",
+      "designation": "Senior Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Nitin_Shep.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Vikas Shendge",
+      "designation": "Asst. Coordinator",
+      "imagePath": "/assets/img/team/maharashtra/parli/Vikas_Shendge.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Gulab Rupnar",
+      "designation": "Coordinator",
+      "imagePath": "/assets/img/team/maharashtra/parli/Gulab_Rupnar.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Ramesh Gutte",
+      "designation": "Asst. Coordinator",
+      "imagePath": "/assets/img/team/maharashtra/parli/Ramesh_Gutte.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Nitin Bansode",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Nitin_Bansode.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Shahebaj Shaikh",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Shahebaj_Shaikh.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Pandurang Gavhane",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Pandurang_Gavhane.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Sandip Dhumal",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Sandip_Dhumal.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Bhagwat Gavhane",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Bhagwat_Gavhane.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Hanmant Devkate",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Hanmant_Devkate.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Vishal Lomate",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Vishal_Lomate.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Sajed Shaikh",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Sajed_Shaikh.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Sandip Kale",
+      "designation": "Field associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Sandip_Kale.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Swapnil Radkar",
+      "designation": "Field associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Swapnil_Radkar.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Lahu Rathod",
+      "designation": "Operator",
+      "imagePath": "/assets/img/team/maharashtra/parli/Lahu_Rathod.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Mukteshwar Kadbhane",
+      "designation": "Asst. Coordinator",
+      "imagePath": "/assets/img/team/maharashtra/parli/Kondiba_Kadbhane.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Hanumant Kale",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Hanumant.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Martand Sonwane",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Martand_Sonwane.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Bandu Rathod",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Bandu_Rathod.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Meghraj Karpe",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Meghraj_Karpe.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Bhagwat Sapkal",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Bhagwat_Sapkal.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Muktiram Kale",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Muktiram_Kale.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Shyam Giram",
+      "designation": "Asst. Agronomist",
+      "imagePath": "/assets/img/team/maharashtra/parli/Shyam_Giram.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Harishchandra Panchal",
+      "designation": "Assistant Coordinator",
+      "imagePath": "/assets/img/team/maharashtra/parli/Harishchandra_Panchal.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Vishal Devakar",
+      "designation": "Asst. Agronomist",
+      "imagePath": "/assets/img/team/maharashtra/parli/Vishal_Devakar.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Yogesh Tupe",
+      "designation": "Ass. Coordinator",
+      "imagePath": "/assets/img/team/maharashtra/parli/Yogesh_Tupe.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Rajabhau Kadbhane",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Rajabhau_Kadbhane.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Kamlakar Kande",
+      "designation": "Ass. Coordinator",
+      "imagePath": "/assets/img/team/maharashtra/parli/Kamlakar_Kande.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Sugandh Rupnar",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Sugandh_Rupnar.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Datta Salgar",
+      "designation": "Operator",
+      "imagePath": "/assets/img/team/maharashtra/parli/Datta_Salgar.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Abasaheb Vharkate",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/parli/Abasaheb_Vharkate.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Pravin Sangshetti",
+      "designation": "Coordinator",
+      "imagePath": "/assets/img/team/maharashtra/parli/Pravin_Sangshetti.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Dnyaneshwar Tayade",
+      "designation": "Assistant Coordinator",
+      "imagePath": "/assets/img/team/maharashtra/parli/Dnyaneshwar_Tayade.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Shailesh Rudraksh",
+      "designation": "Agronomist",
+      "imagePath": "/assets/img/team/maharashtra/parli/Shailesh_Rudraksh.jpg"
+    }
+  ],
+
+  "palgharteam": [
+    {
+      "id": 1,
+      "name": "Sudhir Chinta",
+      "designation": "Project Manager",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Sudhir.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ashish Bhujad",
+      "designation": "Agronomist",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Ashish.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Shiwali Kale",
+      "designation": "Project Coordinator",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Shiwali.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ajay Sutar",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Ajay.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bharat Sapate",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Bharat.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Chetan Thakre",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Chetan.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kiran Pared",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Kiran.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sanket Patil",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Sanket.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Manoj Bundhe",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Manoj.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Vishal Badade",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Vishal.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Harshad Dumade",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Harshad.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Sukhadev Chavhan",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Sukhadev.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Rajabhau Kadbhane",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Rajabhau.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Kamalakar Kande",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Kamalakar.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Parlhad Dumade",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Parlhad.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Aniket Patil",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Aniket.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Arvind Andher",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/maharashtra/palghar/Arvind.jpg"
+    }
+  ],
+
+  "mpteam": [
+    {
+      "id": 1,
+      "name": "Yogendra Mishra",
+      "designation": "Project Manager",
+      "imagePath": "/assets/img/team/madhyapradesh/Yogendra.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sandeep Katheria",
+      "designation": "Sr. Coordinator",
+      "imagePath": "/assets/img/team/madhyapradesh/Sandeep.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Gaurav Upadhyay",
+      "designation": "Sr. Coordinator",
+      "imagePath": "/assets/img/team/madhyapradesh/Gaurav.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Omprakash Dhakad",
+      "designation": "Sr. Coordinator",
+      "imagePath": "/assets/img/team/madhyapradesh/Omprakash.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Rajendra Mahajan",
+      "designation": "Sr. Coordinator",
+      "imagePath": "/assets/img/team/madhyapradesh/Rajendra.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Yogesh Mahajan",
+      "designation": "Marketing & Technical consultant",
+      "imagePath": "/assets/img/team/madhyapradesh/Yogesh.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Maneesh Wanjare",
+      "designation": "Agronomist",
+      "imagePath": "/assets/img/team/madhyapradesh/Maneesh.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sudeep Sahu",
+      "designation": "Agronomist",
+      "imagePath": "/assets/img/team/madhyapradesh/Sudeep.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Dhiraj Zha",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/madhyapradesh/Dhiraj.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Rajesh Thakur",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/madhyapradesh/Rajesh.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Avinash Tayde",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/madhyapradesh/Avinash.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Aditya Bodade",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/madhyapradesh/Aditya.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Sachin Pawar",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/madhyapradesh/Sachin.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Kartar Singh",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/madhyapradesh/Kartar.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Omprakash Singoriya",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/madhyapradesh/OmprakashS.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Mahesh Rajput",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/madhyapradesh/Mahesh.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Bhupendra Itawidya",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/madhyapradesh/Bhupendra.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Rohit Arodiya",
+      "designation": "Field Associate",
+      "imagePath": "/assets/img/team/madhyapradesh/Rohit.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Harsh Thakur",
+      "designation": "Office Assistant",
+      "imagePath": "/assets/img/team/madhyapradesh/Harsh.jpg"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "name":"Sandra Shroff",
+        "organization":"UPL",
+        "designation":"Vice-Chairperson",
+        "quote":"No one cared for the poor in Marathwada, only Save Hasdeo cared.",
+        "imagePath":"/assets/img/testimonials/SandraShroff.jpg"
+    },
+    {
+        "id":2,
+        "name":"Pradeep Kheruka",
+        "organization":"Borosil",
+        "designation":"Chairman",
+        "quote":"Mayank Gandhi has been constantly working only on Development, Development and Development.",
+        "imagePath":"/assets/img/testimonials/PradeepKheruka.jpg"
+    },
+    {
+        "id":3,
+        "name":"Sumeet Raghavan",
+        "organization":"Bollywood",
+        "designation":"Indian Film and Television Actor",
+        "quote":"Incredible Work, All one is to do is plant, plant and plant trees.",
+        "imagePath":"/assets/img/testimonials/SumeetRaghavan.jpg"
+    },
+    {
+        "id":4,
+        "name":"Archana Puran Singh",
+        "organization":"Bollywood",
+        "designation":"Indian Television Presenter and Film Actress",
+        "quote":"Mayank Gandhi's work through Save Hasdeo is commendable. Environment, climate & lives of farmers are in safe hands because of you.",
+        "imagePath":"/assets/img/testimonials/Archana_GP.jpg"
+    },
+    {
+        "id":5,
+        "name":"Sushil Jiwarajka",
+        "organization":"FICCI",
+        "designation":"Ex-Chairman (Western region)",
+        "quote":"This model can change not only the economy of India, but also of many poor countries.",
+        "imagePath":"/assets/img/testimonials/Sushil.jpg"
+    }
+]

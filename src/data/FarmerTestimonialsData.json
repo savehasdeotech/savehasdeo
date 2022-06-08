@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "farmerName":"Mukteshwar",
+        "location":"Parli",
+        "message":"We had a water table at 500 ft, but after the work done of water harvesting, the level is now 50 - 70 ft.",
+        "farmerImage":"",
+        "videoThumbnail":"/assets/img/farmers/Mukteshwar.jpeg",
+        "videoURL":"https://drive.google.com/file/d/133x7V1aqLTXb5bOXHc_MlhetozvqeWy0/view",
+        "videoID":"Im-CZG-et3Q"
+    },
+    {
+        "id":2,
+        "farmerName":"Vinayak Gadade",
+        "location":"Parchundi",
+        "message":"I used to be drunk all the time, but after Save Hasdeo interving, I stopped drinking and my life has changed forever.",
+        "farmerImage":"",
+        "videoThumbnail":"/assets/img/farmers/Vinayak.jpeg",
+        "videoURL":"https://drive.google.com/file/d/1WBnHUmHUMnay0UvUZYx7lzYSzSmC3lqk/view",
+        "videoID":"fnicT8HJwdU"
+    },
+    {
+        "id":3,
+        "farmerName":"Sandeep Gitte",
+        "location":"Parli",
+        "message":"I used to earn 20,000 Rs/acre, in soya and cotton, but now with Papaya and Intercropping of Watermelon, I have earned over 4,00,000 Rs/acre, my life has changed.",
+        "farmerImage":"",
+        "videoThumbnail":"/assets/img/farmers/GittePapaya.JPG",
+        "videoURL":"https://drive.google.com/file/d/1mGVaVHiTNk-UlA_OLRyYPyb7B_kC3qk5/view",
+        "videoID":"6VZxrQ53pGU"
+    },
+    {
+        "id":4,
+        "farmerName":"Gitte Maharaj",
+        "location":"Parli",
+        "message":"I was a poor farmer and had a plan to commit suicide, but after Save Hasdeo came and I started growing sitaphal, now I will get an income upto Rs 3 - 5 lakhs per acre.",
+        "farmerImage":"",
+        "videoThumbnail":"/assets/img/farmers/GitteMaharaj.JPG",
+        "videoURL":"https://drive.google.com/file/d/1EiaL41EwyyIzuhfEIiZbVNzD9rQx88sH/view",
+        "videoID":"r7z96NwLJ1E"
+    },
+    {
+        "id":5,
+        "farmerName":"Vasant Nagargoje",
+        "location":"Parli",
+        "message":"I cannot believe that so much income can be generated in one acre. ",
+        "farmerImage":"",
+        "videoThumbnail":"/assets/img/farmers/VasantNagargoje.jpeg",
+        "videoURL":"https://drive.google.com/file/d/1jcz2mF_lnaMuyBoOzNsuh6PMFMhAo3Wk/view",
+        "videoID":"UhvdDGzoNOY"
+    }
+]

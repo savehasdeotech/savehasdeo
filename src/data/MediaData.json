@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "source": "Rayatecha vaali",
+      "date": "7/04/2021",
+      "headline": "Water conservation and Mass Plantation in Palghar.",
+      "URL": "https://www.facebook.com/297415037259213/posts/1425885714412134/?sfnsn=mo",
+      "imagePath":"/assets/img/news/RayatechaVaali.jpeg"
+    },
+    {
+      "id": 2,
+      "source": "Eco India",
+      "date": "9/22/2019",
+      "headline": "Eco India: What it takes for a drought-ridden community to band together for a sustainable future",
+      "URL": "https://scroll.in/video/938006/eco-india-what-it-takes-for-a-drought-ridden-community-to-band-together-for-a-sustainable-future",
+      "imagePath":"/assets/img/news/ScrollIn.jpeg"
+    },
+    {
+      "id": 3,
+      "source": "Nature World News",
+      "date": "7/25/2020",
+      "headline": "Remembering India in 2016: How Save Hasdeo and an Entire Community Survived a Drought",
+      "URL": "https://www.natureworldnews.com/articles/44135/20200725/india-2016-global-parli-community-survived-drought.htm",
+      "imagePath":"/assets/img/news/NatureWorldNews.jpeg"
+    },
+    {
+      "id": 4,
+      "source": "Mumbai Mirror",
+      "date": "4/1/2018",
+      "headline": "Beed’s water warriors",
+      "URL": "https://mumbaimirror.indiatimes.com/others/sunday-read/beeds-water-warriors/articleshow/63563325.cms",
+      "imagePath":"/assets/img/news/Mumbai Mirror2.jpg"
+    },
+    {
+      "id": 5,
+      "source": "The Economic times",
+      "date": "4/15/2018",
+      "headline": "Hope under Sun: Marathwada villagers wage war on drought",
+      "URL": "https://m.economictimes.com/news/politics-and-nation/hope-under-sun-marathwada-villagers-wage-war-on-drought/articleshow/63770854.cms",
+      "imagePath":"/assets/img/news/The Economic Times.jpeg"
+    },
+    {
+      "id": 6,
+      "source": "Business standard",
+      "date": "4/28/2018",
+      "headline": "In Maharashtra's drought prone areas, this NGO is making water drops count",
+      "URL": "https://www.business-standard.com/article/beyond-business/in-maharashtra-s-drought-prone-areas-this-ngo-is-making-water-drops-count-118042800721_1.html",
+      "imagePath":"/assets/img/news/Business Standard 1.jpeg"
+    },
+    {
+      "id": 7,
+      "source": "India CSR",
+      "date": "3/30/2018",
+      "headline": "CSR : UPL along with Borosil & Alkem join forces for farmers in Beed",
+      "URL": "https://indiacsr.in/csr-upl-along-borosil-alkem-join-forces-farmers-beed/",
+      "imagePath":"/assets/img/news/India CSR.jpeg"
+    },
+    {
+      "id": 8,
+      "source": "India spend",
+      "date": "4/29/2019",
+      "headline": "In India's Richest State, Drought, Farm Crisis Arrive Early",
+      "URL": "https://www.indiaspend.com/in-indias-richest-state-drought-farm-crisis-arrive-early/",
+      "imagePath":"/assets/img/news/India Spend.jpeg"
+    },
+    {
+      "id": 9,
+      "source": "Business standard",
+      "date": "4/14/2018",
+      "headline": "Shramdan- New way to tackle drought in Maharashtra",
+      "URL": "https://www.business-standard.com/article/news-ani/shramdan-new-way-to-tackle-drought-in-maharashtra-118041400504_1.html",
+      "imagePath":"/assets/img/news/Business Standard 2.jpeg"
+    },
+    {
+      "id": 10,
+      "source": "Outlook",
+      "date": "8/28/2019",
+      "headline": "India Leadership Conclave 2019 Debates \"Opportunities - Can India Seize India USD 5 Trillion Economy by 2025",
+      "URL": "https://www.outlookindia.com/newsscroll/india-leadership-conclave-2019-debates-opportunities--can-india-seize-india-usd-5-trillion-economy-by-2025/1606127",
+      "imagePath":"/assets/img/news/Outlook.jpeg"
+    },
+    {
+      "id": 11,
+      "source": "NDTV",
+      "date": "8/4/2018",
+      "headline": "Scarce Rainfall Hits Water Conservation Project In Maharashtra's Beed",
+      "URL": "https://www.ndtv.com/india-news/scarce-rainfall-hits-water-conservation-project-in-maharashtras-beed-1895157",
+      "imagePath":"/assets/img/news/NDTV.jpeg"
+    },
+    {
+      "id": 12,
+      "source": "Agrovan",
+      "date": "6/9/19",
+      "headline": "मधमाशीला हानिकारक कीटकनाशके टाळा : आर. टी. आटपाडीकर",
+      "URL": "https://www.agrowon.com/agriculture-news-marathi-avoid-harmful-pesticides-bees-r-t-atpadikar-25653",
+      "imagePath":"/assets/img/news/Agrovan.jpeg"
+    },
+    {
+      "id": 13,
+      "source": "Rediff",
+      "date": "22/05/18",
+      "headline": "Save Hasdeo brings hope to parched Beed",
+      "URL": "https://www.rediff.com/news/special/global-parli-brings-hope-to-parched-beed/20180522.htm",
+      "imagePath":"/assets/img/news/Rediff.jpeg"
+    },
+    {
+      "id": 14,
+      "source": "ANI",
+      "date": "4/14/2018",
+      "headline": "Shramdan- New way to tackle drought in Maharashtra",
+      "URL": "https://www.aninews.in/news/national/general-news/shramdan-new-way-to-tackle-drought-in-maharashtra201804141651250001/",
+      "imagePath":"/assets/img/news/ANI.jpeg"
+    },
+    {
+      "id": 15,
+      "source": "The Better India",
+      "date": "22/09/20",
+      "headline": "Organic Farmer Makes Lakhs Growing Fruit in Drought-Prone Beed, Inspires 50 Others",
+      "URL": "https://www.thebetterindia.com/238450/maharashtra-beed-farmer-earns-lakhs-organic-fruit-papaya-watermelon-method-how-to-water-him16/",
+      "imagePath":"/assets/img/news/The Better India.png"
+    }
+  ]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "360 Degree Development",
+    "path": "360-Degree-Development",
+    "imageCount": 52
+  },
+  {
+    "id": 2,
+    "title": "Shramdaan",
+    "path": "Shramdaan",
+    "imageCount": 21
+  },
+  {
+    "id": 3,
+    "title": "Water Management",
+    "path": "Water-Management",
+    "imageCount": 18
+  },
+  {
+    "id": 4,
+    "title": "Mass Plantation",
+    "path": "Mass-Plantation",
+    "imageCount": 27
+  },
+  {
+    "id": 5,
+    "title": "Plan for 2021",
+    "path": "Plan for 2021",
+    "imageCount": 24
+  },
+  {
+    "id": 6,
+    "title": "Community-Meetings",
+    "path": "Community-Meetings",
+    "imageCount": 19
+  },
+  {
+    "id": 7,
+    "title": "Nursery Visits",
+    "path": "Nursery Visits",
+    "imageCount": 16
+  },
+  {
+    "id": 8,
+    "title": "Training",
+    "path": "Training",
+    "imageCount": 26
+  },
+  {
+    "id": 9,
+    "title": "At Work",
+    "path": "At Work",
+    "imageCount": 18
+  }
+]
